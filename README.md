@@ -5,7 +5,7 @@ A web scraping application which retrieves and presents summary information, the
 ### Process:
 Scrape data from several websites containing Mars news. Different types of data included were images of Mars, tweets about the current Mars weather, a table of Mars facts, and headlines with the latest Mars news. After scraping, the data is stored in MongoDB and then loaded it into an HTML file using a Flask template that interfaces with Python and formatted with HTML using Bootstrap.
 
-![alt tag]https://github.com/abdullahsher1/Mission-to-Mars/master/Images/mission.jpg?raw=true)
+![alt tag](https://github.com/abdullahsher1/Mission-to-Mars/blob/master/Images/mission.jpg?raw=true)
 
 ### Steps:
 - To scrape various websites for data related to the Mission to Mars and display output on Jupyter Notebook [Scraping_mission_to_mars.ipynb]
